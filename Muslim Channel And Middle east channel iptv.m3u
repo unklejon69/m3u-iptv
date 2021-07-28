@@ -1,0 +1,157 @@
+﻿#EXTINF:-1 tvg-id="AhluAlQuranTV.sa" tvg-name="Ahlu Al Quran TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.ahlu.tv/uploads/logo.png" group-title="Muslim Channels",Ahlu Al Quran TV (UNI EMIRATES ARAB)
+https://5b18be6964c2f.streamlock.net/m/ngrp:ahul_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AhlulbaytTV.uk" tvg-name="Ahlulbayt TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/qLqHPhK.png" group-title="Muslim Channels",Ahlulbayt TV (UNITED KINGDOM)
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="ALANISTV.dz" tvg-name="AL ANIS TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G60iJen.png" group-title="Muslim Channels",AL ANIS TV (AL JAZAIR)
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/htatv/El_Fhama_TV_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="AlAqsaChannel.ps" tvg-name="Al Aqsa Channel" tvg-country="PS" tvg-language="Arabic" tvg-logo="http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png" group-title="Muslim Channels",Al Aqsa Channel (PALESTINE)
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlIstiqamaTV.om" tvg-name="Al Istiqama TV" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="Muslim Channels",Al Istiqama TV (OMAN)
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="AlIstiqama.om" tvg-name="Al-Istiqama" tvg-country="OM" tvg-language="OM" tvg-logo="https://i.imgur.com/H7D7dmK.png" group-title="Muslim Channels",Al-Istiqama SD (OMAN)
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:-1 tvg-id="AlMaarefTV.bh" tvg-name="Al Maaref TV" tvg-country="BH" tvg-language="Arabic" tvg-logo="http://tvtolive.com/wp-content/uploads/Al-Maaref-TV.tvtolive.com_.jpg" group-title="Muslim Channels",Al Maaref TV (BAHRAIN)
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Muslim Channels",Al Quran Al Kareem TV HD (Mecca)
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Muslim Channels",Al Quran Al Kareem TV SD (Mecca)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="Muslim Channels",Al Quran Al Kareem TV HD (Mecca)
+https://iptv--iptv.repl.co/Arabic/Quran_TV/
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://banner2.cleanpng.com/20180421/hke/kisspng-quran-mecca-television-channel-television-show-the-holy-quran-5adb1aaa68d583.5559187415243086504294.jpg" group-title="Muslim Channels",Al Sunnah Al Nabawiyah TV HD (Medina)
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://banner2.cleanpng.com/20180421/hke/kisspng-quran-mecca-television-channel-television-show-the-holy-quran-5adb1aaa68d583.5559187415243086504294.jpg" group-title="Muslim Channels",Al Sunnah Al Nabawiyah TV SD (Medina)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-name="Al Sunnah Al Nabawiyah TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://banner2.cleanpng.com/20180421/hke/kisspng-quran-mecca-television-channel-television-show-the-holy-quran-5adb1aaa68d583.5559187415243086504294.jpg" group-title="Muslim Channels",Al Sunnah Al Nabawiyah TV HD (Medina)
+https://iptv--iptv.repl.co/Arabic/Sunnah_TV/
+#EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-name="Alerth Alnabawi" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png" group-title="Muslim Channels",Alerth Alnabawi (Yemen)
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1 tvg-id="AlKawtharTV.ir" tvg-name="Al Kawthar TV" tvg-country="IR" tvg-language="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/AlKawathar.png" group-title="Muslim Channels",Al Kawthar TV (IRAN)
+http://178.252.143.156:1935/live/myStream/chunklist_w907760503.m3u8
+
+
+#EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="General & Other Religious ",Ajyal TV (UNI EMIRATES ARAB)
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" tvg-country="UK" tvg-language="Punjabi;English" tvg-logo="https://i.imgur.com/62IpVDn.png" group-title="General & Other Religious",Akaal Channel (UNITED KINGDOM)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+#EXTINF:-1 tvg-id="AkaalTV.uk" tvg-name="Akaal TV" tvg-country="UK" tvg-language="" tvg-logo="https://i.imgur.com/62IpVDn.png" group-title="General & Other Religious",Akaal TV SD (UNITED KINGDOM)
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="Akit TV" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" group-title="News & Other",Akit TV HD (Turkey)
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-id="AkitTV.tr" tvg-name="Akit TV" tvg-country="TR" tvg-language="" tvg-logo="https://www.akittv.com.tr/assets/img/logo.png" group-title="General & Other Religious",Akit TV (Turkey)
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 tvg-id="AjyalTV.uea" tvg-name="AJYAL TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://www.coolstreaming.us/img/ch/image52112847986.jpg" group-title="General & Other Religious",AJYAL TV (UNITED EMIRATES ARAB)
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News & Other",Al Alam (Iran)
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="ALOULA.ma" tvg-name="AL AOULA TV" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SNRT-Al-Aoula.png" group-title="",AL AOULA TV (MOROCCO)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8 
+#EXTINF:-1 tvg-id="AlArabiya.ae" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="News & Other",Al Arabiya (UNI EMIRATES ARAB)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-name="Al Arabiya Al Hadath" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News & Other",Al Arabiya Al Hadath (UNI EMIRATES ARAB)
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlDafrahTV.ae" tvg-name="Al Dafrah TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="General & Other Religious ",Al Dafrah TV (UNI EMIRATES ARAB)
+https://iptv-all.lanesh4d0w.codes/saudiarabia/aldafrah
+#EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-name="Al Ekhbariya" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NciF5rO.png" group-title="News & Other",Al Ekhbariya (UNI EMIRATES ARAB)
+https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
+#EXTINF:-1 tvg-id="AlArabiyaAlHadath.ae" tvg-name="Al Arabiya Al Hadath" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News & Other",Al Hadath TV (UNI EMIRATES ARAB)
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHayatTV.eg" tvg-name="Al Hayat TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://terrortrendsbulletin.files.wordpress.com/2016/10/img_20160905_004133.png?w=584" group-title="General & Other Religious",Al Hayat TV HD
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHayatTV.eg" tvg-name="Al Hayat TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://terrortrendsbulletin.files.wordpress.com/2016/10/img_20160905_004133.png?w=584" group-title="General & Other Religious",Al Hayat TV SD
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="ALHOKAIRGroupTV.sa" tvg-name="AL HOKAIR Group TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/topics/15819734874770.jpg" group-title="General & Other Religious ",AL HOKAIR Group TV (UNI EMIRATES ARAB)
+http://82.212.74.3:8000/live/7513.m3u8
+#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3I5Bzl5GaguLoYPvXLdHGXECsteIkGE2C_SrWIl0lKDtbcc6E6syhqj7GRomh-ZTPSA&usqp=CAU" group-title="General & Other Religious",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3I5Bzl5GaguLoYPvXLdHGXECsteIkGE2C_SrWIl0lKDtbcc6E6syhqj7GRomh-ZTPSA&usqp=CAU" group-title="General & Other Religious",Al Horreya TV HD
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHurraHD.iq" tvg-name="AL Hurra HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg" group-title="News & Other",Al Hurra (Iraq)
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 tvg-id="AlHurra.us" tvg-name="Al Hurra" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/GRl09vk.jpg" group-title="News & Other",Al Hurra (US)
+https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
+#EXTINF:-1 tvg-id="Al Iraqiya.iq" tvg-name="Al Iraqiya" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/iq-al-iraqiya-news-1621.jpg" group-title="News & Other",Al Iraqiya (Iraq)
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 tvg-id="AlIttihad.lb" tvg-name="Al Ittihad" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://alittihad.tv/assets/images/logo.png" group-title="General & Other Religious ",Al Ittihad (Lebanon)
+https://live.alittihad.tv/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-name="Al Jazeera Balkans" tvg-country="BA;HR;MK;ME;RS;SI" tvg-language="Bosnian;Serbian;Croatian;Montenegrin" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Al_Jazeera_Balkans.png/220px-Al_Jazeera_Balkans.png" group-title="News & Other",Al Jazeera Balkans HD 
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="News & Other",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="News & Other",Al Jazeera Mubasher HD
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="ALKARMATV.us" tvg-name="AL KARMA TV" tvg-country="US" tvg-language="" tvg-logo="https://alkarmatv.com/wp-content/uploads/2019/12/Logo.png" group-title="",AL KARMA TV (UNITED STATES)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlKhalij.sa" tvg-name="Al Khalij" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://www.al-khalij.tv/img/logo.png" group-title="General & Other Religious",Al Khalij HD
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMayadeen.lb" tvg-name="Al Mayadeen" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News & Other",Al Mayadeen (LEBANON)
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8 
+#EXTINF:-1 tvg-id="Al Maghribia ARB" tvg-name="Al Maghribia ARB" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="General & Other Religious",Al Maghribia (MOROCCO)
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-name="Al Maghribia" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="General & Other Religious",Al Maghribia (MOROCCO)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-name="Al Mamlaka TV" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="General & Other Religious",Al Mamlaka TV (JORDAN)
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-name="Al Mamlaka TV" tvg-country="JO" tvg-language="" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="General & Other Religious",Al Mamlaka TV (JORDAN)
+https://almamlka-live.ercdn.net/almamlka/almamlka_480p.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="News & Other",Al Manar (LEBANON)
+https://manar.live/iptv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="News & Other",Al Manar (LEBANON)
+https://manar.live/x.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMasirah.ye" tvg-name="Al Masirah" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" group-title="News & Other",Al Masirah (YEMEN)
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMasirahMubacher.ye" tvg-name="Al Masirah Mubacher" tvg-country="YE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="News & Other",Al Masirah Mubacher (YEMEN)
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMayadeen.lb" tvg-name="Al Mayadeen" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News & Other",Al Mayadeen (LEBANON)
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlMayadeen.lb" tvg-name="Al Mayadeen" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="News & Other",Al Mayadeen (LEBANON)
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8 
+#EXTINF:-1 tvg-id="ALRafidain.eg" tvg-name="AL Rafidain" tvg-country="EG" tvg-language="" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="",AL Rafidain (IRAQ)
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+#EXTINF:-1 tvg-id="AlRafidain.iq" tvg-name="Al Rafidain" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="News & Other",Al Rafidain HD (IRAQ)
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRafidainHQ.iq" tvg-name="Al Rafidain HQ" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="News & Other",Al Rafidain HQ (IRAQ)
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+#EXTINF:-1 tvg-id="ALRAI.kw" tvg-name="AL RAI" tvg-country="KW" tvg-language="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV.png" group-title="News & Other",AL RAI (KUWAIT)
+https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRaiHD.kw" tvg-name="Al Rai HD" tvg-country="KW" tvg-language="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/03/AlraiTV.png" group-title="",Al Rai HD (KUWAIT)
+https://stream02.fasttelco.net/live/alrai.stream/chunklist_w420445644.m3u8
+#EXTINF:-1 tvg-id="AlRasheed.iq" tvg-name="Al Rasheed" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://alrasheedmedia.com/wp-content/themes/alrasheedv4/alr-logo.png" group-title="General & Other Religious",Al Rasheed (BAGHDAD)
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+#EXTINF:-1 tvg-id="AlRayyan.qa" tvg-name="Al Rayyan" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uQMoKXn.png" group-title="General & Other Religious",Al Rayyan HD
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlRayyanAlQadeem.qa" tvg-name="Al Rayyan Al Qadeem" tvg-country="QA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mVwHGbc.png" group-title="General & Other Religious",Al Rayyan Al Qadeem HD
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-name="Al Saudiya" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SMk1hAy.png" group-title="General & Other Religious",Al Saudiya SD (UNI EMIRATES ARAB)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 tvg-id="AlSaudiya.sa" tvg-name="Al Saudiya" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/MOiapKB.png" group-title="General & Other Religious",Al Saudiya HD (UNI EMIRATES ARAB)
+https://iptv--iptv.repl.co/Arabic/Saudi1_TV/
+#EXTINF:-1 tvg-id="AlSharqiyahd.iq" tvg-name="Alsharqiya hd" tvg-country="IQ" tvg-language="" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="",Al Sharqiya SD (IRAQ)
+http://ns8.indexforce.com:1935/home/mystream/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-name="Alsharqiya" tvg-country="IQ" tvg-language="" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="",Al Sharqiya HD (IRAQ)
+http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaTV.iq" tvg-name="Al Sharqiya TV" tvg-country="IQ" tvg-language="" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="",Al Sharqiya (IRAQ)
+http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8?
+#EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-name="Al Sharqiya" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="General & Other Religious",Al Sharqiya SD (IRAQ)
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaMinKabla.ae" tvg-name="Al Sharqiya Min Kabla" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="General & Other Religious",Al Sharqiya Min Kabla HD (IRAQ)
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Alsharqiya News" tvg-country="IQ" tvg-language="" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News & Other",Al Sharqiya News (IRAQ)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w1419797891.m3u8?v=86757236
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News & Other",Al Sharqiya News (IRAQ)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="News & Other",Al Sharqiya News (IRAQ)
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8 
+#EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-name="Al Yaum TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png" group-title="News & Other",Al Yaum TV (UNI EMIRATES ARAB)
+https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlZahraTV.ir" tvg-name="Al Zahra TV" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ffFbUmd.jpg" group-title="General & Other Religious",Al Zahra TV 
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-id="AlBawadi.kw" tvg-name="Al-Bawadi" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://ewsat.com/img/AL_BAWADI.png" group-title="General & Other Religious",Al-Bawadi
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/chunks.m3u8
+#EXTINF:-1 tvg-id="AlRafidainTV.iq" tvg-name="Al-Rafidain TV" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="General & Other Religious",Al-Rafidain TV (Turkey)
+http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
+#EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-name="Al-Zahra TV Turkic" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="",Al-Zahra TV Turkic (Turkey)
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-name="Al-Zahra TV Turkic" tvg-country="TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="",Al-Zahra TV Turkic (Turkey)
+https://live.al-zahratv.com/live/playlist2/index.m3u8
