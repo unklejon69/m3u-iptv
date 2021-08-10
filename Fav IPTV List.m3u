@@ -1,0 +1,513 @@
+#EXTINF:-1 tvg-logo="https://i0.wp.com/misteriluhur.com/wp-content/uploads/2021/06/121212.jpg?w=254&ssl=1" group-title="INDONESIA CHANNELS", SHOWBIZ 
+http://210.210.155.35/x6bnqe/s/s113/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ivrHLv_ow2xQ1mNv_V8cYbGbEh4pvHC0Iq9ozISYQYzojoXf7hpJ-LAnH5VVbGmnlrA=s180-rw" group-title="INDONESIA CHANNELS", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1199px-MNCTV_logo.png" group-title="INDONESIA CHANNELS", MNCTV 
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" group-title="INDONESIA CHANNELS", GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/76L85RhF/gtv.jpg" group-title="INDONESIA CHANNELS",GTV+
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/7b8WntPY/rcti.png" group-title="INDONESIA CHANNELS",RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/wMdrhbjx/mnc.jpg" group-title="INDONESIA CHANNELS",MNC HD
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/1200px-INews.png" group-title="INDONESIA CHANNELS", INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="INDONESIA CHANNELS",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" group-title="INDONESIA CHANNELS",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_shareExt_b744100_sleng.m3u8
+
+
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.ibb.co/VLG4kdY/trlogonew.png" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="INDONESIA CHANNELS", TRANS TV HD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="INDONESIA CHANNELS", TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="INDONESIA CHANNELS", METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/9f5DfSJg/logo-metrotv-small1.png" group-title="INDONESIA CHANNELS",METROTV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/734px-Antv_logo_%282017%29.svg.png" group-title="INDONESIA CHANNELS",ANTV
+http://chostv.mobie.in/files/iptv/antv.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/RRI_NET.png" group-title="INDONESIA CHANNELS",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/TATV_logo.svg/400px-TATV_logo.svg.png" group-title="INDONESIA CHANNELS",TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.eljohn.tv/wp-content/uploads/2018/11/logo-terbaru.png" group-title="BERITA [NEWS]", El John TV 
+https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_shareExt.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS",TVRI HD
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [ACEH]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [BALI]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [BANGKA BELITUNG]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [BENGKULU]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [DKI JAKARTA]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIDki)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [D.I YOGYAKARTA]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [GORONTALO]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [JAMBI]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [JAWA BARAT]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [JAWA TENGAH]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [JAWA TIMUR]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [KALIMANTAN BARAT]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [KALIMANTAN TENGAH]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [KALIMANTAN TIMUR]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [KALIMANTAN SELATAN]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [MALUKU]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [NUSA TENGGARA BARAT]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [NUSA TENGGARA TIMUR]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [PAPUA]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [RIAU]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [SULAWESI SELATAN]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [SULAWESI BARAT]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [SULAWESI TENGGARA]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [SULAWESI TENGAH]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [SULAWESI UTARA]
+ttp://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [SUMATERA UTARA]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [SUMATERA BARAT]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/640px-TVRILogo2019.svg.png" group-title="INDONESIA CHANNELS", TVRI [SUMATERA SELATAN]
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Nusantara_TV.png" group-title="INDONESIA CHANNELS",Nusantara TV
+https://v6.siar.us/nusantaratv/live/shareExt_chunks.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/P5YPShjv/Backup-of-Bandung-TV.png" group-title="INDONESIA CHANNELS",BANDUNGTV [BANDUNG]
+http://202.150.153.254/bandungtv720p.m3u8
+
+#EXTINF:-1   tvg-logo="http://3.bp.blogspot.com/-sX6OqO79te8/WXsMUTk8QqI/AAAAAAAAHbs/XzDp3-8sTvgkAQpwChG_MhnHX1eP6NeBQCK4BGAYYCw/s269/balung%2Btv.png" group-title="INDONESIA CHANNELS",BETV [BENGKULU]
+http://122.248.43.138:1935/ch3/myStream/live.m3u8
+
+#EXTINF:-1   tvg-logo="https://pbs.twimg.com/profile_images/709611530602418176/0nN_0pC4.jpg" group-title="INDONESIA CHANNELS",BTV [BALIKPAPAN]
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+
+#EXTINF:-1   tvg-logo="https://radartv.co.id/wp-content/uploads/2019/11/logo-radartv-544x180.png" group-title="INDONESIA CHANNELS",RADAR TV [LAMPUNG]
+http://122.248.43.138:1935/ch11/myStream/live.m3u8
+
+#EXTINF:-1   tvg-logo="https://tv.radarcirebon.com/wp-content/uploads/2018/08/logo-74.png" group-title="INDONESIA CHANNELS",RCTV [CIREBON]
+http://122.248.43.138:1935/ch9/myStream/live.m3u8
+
+#EXTINF:-1   tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png" group-title="INDONESIA CHANNELS",PONTV [PONTIANAK]
+http://122.248.43.138:1935/ch15/myStream/live.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/QM9dFVzg/tvku.jpg" group-title="INDONESIA CHANNELS",TVKU [SEMARANG]
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1   tvg-logo="https://3.bp.blogspot.com/-ViW8Tx9kwk0/XBbiYrAN0GI/AAAAAAAAH5A/7uR_msPcoo85ioVXwYXPbl0NjDxtJfrNACLcBGAs/s1600/Sultra%2BTV%2Blive%2Bstreaming%2Bonline.png" group-title="INDONESIA CHANNELS",SULTRATV [SULAWESI TENGGARA]
+http://122.248.43.138:1935/ch20/myStream/live.m3u8
+
+#EXTINF:-1   tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-jambi-tv-3598-300x225.jpg" group-title="INDONESIA CHANNELS",JAMBITV [JAMBI]
+http://122.248.43.138:1935/ch23/myStream/live.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1094px-JTV_%282012%29.svg.png" group-title="INDONESIA CHANNELS",JTV [SURABAYA]
+http://122.248.43.138:1935/ch2/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://jitv.jogjaprov.go.id/images/logo_jogja_tv.png" group-title="INDONESIA CHANNELS", JITV [D.I YOGYAKARTA]
+http://202.169.224.76:1935/tv/jitv/chunklist_shareExt.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_BeritaSatu_Media.png" group-title="BERITA [NEWS]", BERITA SATU 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/600px-CNN_Indonesia.png" group-title="BERITA [NEWS]",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_shareExt_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="BERITA [NEWS]",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_shareExt_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/BeritaSatuWorld.png" group-title="BERITA [NEWS]",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest/scale-to-width-down/840?cb=20191019135004" group-title="BERITA [NEWS]",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/712px-CNA_new_logo.svg.png" group-title="BERITA [NEWS]", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/9f/ef/aa/9fefaae0ec910f7e9fa6f70822d2a0a8.jpg" group-title="BERITA [NEWS]", BTV NEWS [THAILAND]
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://www.infotelevisi.com/asset/images/tv/formosa-tv.jpg" group-title="ASIAN CHANNELS",FORMOSA [TAIWAN]
+http://210.61.56.23/hls/ftvtv/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://www.infotelevisi.com/asset/images/tv/formosa-tv.jpg" group-title="ASIAN CHANNELS",FORMOSA HD [TAIWAN]
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/CGN-TV.png" group-title="ASIAN CHANNELS",CGNTV [SOUTH KOREA]
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+
+#EXTINF:-1   tvg-logo="https://img.favpng.com/11/16/21/south-korea-internet-radio-television-channel-cbs-png-favpng-DE67ZHkiC8w6JGN1LbTmugTpc.jpg" group-title="ASIAN CHANNELS",CBS [SOUTH KOREA]
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/IKIM.png" group-title="ASIAN CHANNELS",IKIM TV [MALAYSIA]
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Thai_PBS_logo.png" group-title="ASIAN CHANNELS",THAI PBS [THAILAND]
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="ASIAN CHANNELS",K+ [SOUTH KOREA]
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.wixstatic.com/media/2e6fb9_ba33c6c82a654a418a2badc919749c68~mv2.png" group-title="ASIAN CHANNELS",SBS STAR [SOUTH KOREA]
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+
+
+
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fox_Family_Movies_logo.svg/1200px-Fox_Family_Movies_logo.svg.png" group-title="IPTV MOVIES",FOXFAMILY HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/512px-FOX_HD.svg.png" group-title="IPTV MOVIES",FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/800px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="IPTV MOVIES",FOXMOVIES HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="IPTV MOVIES",FOX LIFE
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="IPTV MOVIES",KKTV
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest/scale-to-width-down/902?cb=20200430075830" group-title="IPTV MOVIES",&PRIV HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg/revision/latest/scale-to-width-down/220?cb=20200430075815" group-title="IPTV MOVIES",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="IPTV MOVIES",THRILL
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/512?cb=20210517184835" group-title="IPTV MOVIES",ZEE BIOSKOP
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1   tvg-logo="http://shrani.si/f/U/fE/1L7LOC00/20-mediaset-hd.png" group-title="IPTV MOVIES",20MEDIASET TV
+http://194.76.186.69:8000/play/a00d
+
+
+
+
+
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",DontStopTheParty
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",HELLOVENUS-WiggleWiggle
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",T-ara-成员朴孝敏–SKETCH
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",小风波收集【以防盗码
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",小风波收集【以防盗码
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Madonna - Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",EXID - 上下(中文版)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",欧美群星-天下一家-We Are The World
+http://sofa.resource.shida.sogoucdn.com/6abaf62b-c77e-4642-999b-9301c1826f6e1_0_0.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",欧美群星-天下一家-We Are The World
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpt6a4gUo1aeryAQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",迈克尔杰克逊30周年演唱会片段-比利·金-BILLIE.JEAN
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",泫雅-CHANGE-甩Nai舞
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",EXID - Every Night
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",僵尸跳舞David Jones - Rhythm Alive
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",T-ARA_Lovey Dovey_MTV僵尸舞完整版
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Alan Walker feat. Iselin Solheim - Faded
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Trouble Maker
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Trouble Maker- Now
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Trouble Maker- Now
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgism34gUo0rqhhAE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Stellar-Vibrato
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",After-School-Flashback
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",AOA Mini skart-短裙
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",AOA Mini skart-短裙
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi5Ke4wUoy6vqTg.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Sistar - Give It To Me
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",After School - 初恋
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Dal Shabet - Joker
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Dalshabet - Joker(Areia Kpop Remix)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",佳仁 - Paradise Lost
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",HELLOVENUS - StickySticky
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",EXID-UP&DOWN
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Four Ladies-Move
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Four Ladies-Move
+http://resource.yaokan.sogoucdn.com/videodown/4/229/d2be298a756c966f81134a671d6dd41f.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",AOA - Excuse Me
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",AOA - 动摇
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",AOA - Like A Cat
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",金泫雅-鸟叔客串-HyunA-Ice Cream
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",蔡依林 - Beast
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",郭健荣-123 我爱你
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4sGv5wUo5bvaxwM.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Foreign Figures - Fire
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Stereoact&Jaques Raupé feat. Peter Schilling - Ter
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyL-s7QUoo_-L5AE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Kronic & Krunk - Hey Ho!
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Clara Mae ft. Jake Miller - Better Me Better You
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl8-77QUo2KnZ-AU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",9MUSES(?????) - Wild
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_K204wUogPqGqQY.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Wild(???)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9__d4wUotJXpmgI.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Wild(???)
+http://feed.resrc.svideo.sogoucdn.com/videodown/110002/540/e5a4011e3fe607ec3d39b9ba59f9a9fd.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Girls Generation - Mr.Mr
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgorq64gUozOXcXA.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Girls Generation - DIVINE
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgho7o5QUoyr2cggE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",PVRIS - Death of Me
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqfmh7QUoqNfLigE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",孝敏 HyoMin - U Um U Um
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fO98AUo7-WMigc.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",A Pink - Hush
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsfK24gUozL7XrAE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Nightwish - élan
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6Nf77QUo0Kngqgc.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",JinSoul- Singing in the Rain
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vC98AUooILmZw.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",My Heart Will Go On (泰坦尼克号主题曲)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Geo Da Silva、DJ Gabro、Mr. Sax、Alexandra Mitroi - K
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5avW4gUo47zhvwU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",FIESTAR - Mirror(Areia Kpop Remix)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4K_04wUo5-iTyAU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Ara - Wish
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--_h7QUojLvmogU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Arash feat. Helena - One Night In Dubai
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Russ - Civil War
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_fih7QUovpfokgI.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Татяна - Да сме квит(Tatyana - Da Sme Kvit)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7si84gUo8fehkQc.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Stellar - Study
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggMa84gUowOHVxgE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",RAINBOW - Black Swan
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj8m_4gUooMrSsQY.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Andrea feat. Fiki - Sex Za Den
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmcW84gUoqJz6vQc.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Hyuna (??) - Lip & Hip ??Areia Kpop Remix
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtLrW4gUosLGs2gU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Jason Derulo - The Other Side
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6qM5gUo8JmR4gQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",MAMAMOO - Décalcomanie
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxOrV4gUo8Oytsgc.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",T-ara - What Should I Do
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyPKv4gUonPnYtwE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",BP POP-Today
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpeab4gUo3P3GsQY.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",T-ARA - First Love
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3Lqw4gUoo6LL7QU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",9MUSES - Remember
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgh_y98AUo5K_x8QU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",9MUSES(GUN)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6604wUowITHOg.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",4minute_Volume Up
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_5Oy4gUolMCzFw.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",4minute_Volume Up
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksWc4gUo9IjHPA.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",4minute_Volume Up
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgx6if4gUozoWktgU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",电音舞曲- (Rap Feat. ?Of 4Minute)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwNWb4gUolJ62iwQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",4MINUTE(???) - WHY
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo7v64wUovvXL6QQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",4MINUTE - Whatcha Doin ?Today
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7_uv4gUozsnyoQc.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",LUNA - Even So
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxfG98AUogN6hqgU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",OH MY GIRL - BUNGEE (Fall in Love)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnfmh7QUokqegngQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",少女时代-Mr Taxi
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghd_x4gUouPyVbw.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",少女时代-Mr Taxi
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgme2u4gUo_NKz8AM.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",少女时代-All My Love Is For You
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9ueb4gUolq2JyQY.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Bob Girls - No way
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqe298AUo9JPpiwE.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Ava Max - So Am I
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwv_h7QUolM7fswM.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",2NE1(MISSING YOU)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyee74wUowp6c1gU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Gavy-20NJ-Dont-Call(feat-LE-of-EXID)
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsu_c4gUohrr0igU.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",EXID - L.I.E
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",EXID - Ah Yeah
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1J_-4gUouJjNQw.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Kantik - Orfelogy
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggq-W4gUouLym-QQ.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Celine Dion - My Heart Will Go On
+https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6_Ka4gUo3_-YYA.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",周杰伦/蔡依林-能不能给我一首歌的时间
+https://link.hhtjim.com/qq/012rJrGd4cGDA9.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",张信哲-时间都去哪儿了
+http://qukufile2.qianqian.com/data2/video/531235d6ab5bf55fe9be898b5273bd10/607996223/607996223.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",周杰伦-夜
+http://qukufile2.qianqian.com/data2/video/445cb146626ea827d8402f6130b2f9da/607942799/607942799.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",火箭少女101-卡路里
+http://qukufile2.qianqian.com/data2/video/02cca8d7303f608a2ea1621a6ebd8ad4/607962657/607962657.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",11
+http://qukufile2.qianqian.com/data2/video/00312d8028388abbb7055f121356a059/673592306/673592306.mp4
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",泳池派对-DJ何鹏-张怡诺-老公你辛苦啦
+http://111.73.46.108/video/m3u8/2020/01/20/cb10f923/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",不该相遇在秋天
+http://111.73.46.108/video/m3u8/2020/01/20/ee5a57b8/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",陈玉建&王诗
+http://111.73.46.108/video/m3u8/2019/12/09/f05ec51f/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",谁的新欢不是别人的旧爱
+http://111.73.46.108/video/m3u8/2020/02/02/4175896d/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Timbaland - Carry Out
+http://111.73.46.108/video/m3u8/2020/02/02/210d8c9c/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Tiesto ft Bright Sparks - On My Way
+http://111.73.46.108/video/m3u8/2020/02/02/b0bf2be1/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Avi_DJ舞曲DVD视频 - 车展
+http://111.73.46.108/video/m3u8/2020/02/02/3218a966/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Avi_DJ舞曲DVD视频 - 车展 - 如果寂寞了
+http://111.73.46.108/video/m3u8/2020/02/02/83753965/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",车载欧美视频_Wale f
+http://111.73.46.108/video/m3u8/2020/02/01/8bf04f6a/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",车载欧美视频_Troy Ave
+http://111.73.46.108/video/m3u8/2020/02/01/2e69d6ff/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",车载热舞湿身DJ视
+http://111.73.46.108/video/m3u8/2020/02/01/47edd27f/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Sean Paul feat. Dua Lipa
+http://111.73.46.108/video/m3u8/2020/02/01/9ab390cc/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",3Dlmanalbatraoz混音版 DJ舞曲超劲爆视频
+http://111.73.46.108/video/m3u8/2020/02/01/47bdc4df/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",车载欧美视频_Zara Larsso
+http://111.73.46.108/video/m3u8/2020/01/31/46cabb6c/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",Yo Gotti and Mike Will M
+http://111.73.46.108/video/m3u8/2020/01/31/913a9d07/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",WHYLO ft Swedish Re
+http://111.73.46.108/video/m3u8/2020/01/31/9631dcf7/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",你做小三还好吗
+http://111.73.46.108/video/m3u8/2020/01/31/84d670a4/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",湿身热舞DJ视频-外文慢嗨经典电音
+http://111.73.46.108/video/m3u8/2020/01/30/655c119c/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",湿身DJ视频-重低音电音节奏
+http://111.73.46.108/video/m3u8/2020/01/30/45a9a470/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",迷幻热舞湿身秀-湿身热舞视频小串烧DJ舞
+http://111.73.46.108/video/m3u8/2020/01/30/81ff5f32/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",车载欧美视频_Yall - Together Extended
+http://111.73.46.108/video/m3u8/2020/01/30/40bd0fad/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",车载欧美视频_Will Sparks ft Gloria Kim
+http://111.73.46.108/video/m3u8/2020/01/30/5f3a17fa/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",车载欧美视频_Trobi ft Junglebae
+http://111.73.46.108/video/m3u8/2020/01/29/1e5bc487/playlist.m3u8
+#EXTINF:-1   tvg-logo="https://static.dw.com/image/54667813_303.jpg" group-title="MV KPOP & MUSIC CHANNELS",车载欧美视频_Sigala and Ella Eyr
+http://111.73.46.108/video/m3u8/2020/01/29/83e7659c/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/GWr5zZYDRm.jpg" group-title="MV KPOP & MUSIC CHANNELS",RADIOM2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-music-top-2943.jpg" group-title="MV KPOP & MUSIC CHANNELS",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.1muz.com/images/LOGORUS.png" group-title="MV KPOP & MUSIC CHANNELS",1MUZ
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/800px-MTV_Logo_2010.svg.png" group-title="MV KPOP & MUSIC CHANNELS",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/113/310/png-transparent-television-channel-music-high-definition-television-live-television-others-thumbnail.png" group-title="MV KPOP & MUSIC CHANNELS",ONEHDMUSIC TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
